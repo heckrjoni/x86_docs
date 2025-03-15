@@ -1,0 +1,14 @@
+{
+  "docs": {
+  	"Setting up your Machine": ["setup", "notes"],
+    "Getting Started": ["boot", "makefile", "print16", "address-org"],
+    "The Real Mode": ["intro-real-mode", "segmentation", "load-disk"],
+    "Switching to the Protected Mode": ["intro-protected-mode","Introduction to the GDT","Setting up GDT","Defining GDT in Assembly"],
+    "Kernel and Interrupt Handling": ["Kernel","interrupts"],
+    "Paging" :["Paging"],
+    "User Process":["tss_preq1","tss_preq2","tss_preq3","user_mode"],
+    "Multi Programming":["multi"],
+    "Setting up a screen driver": ["io-intro"]
+
+  }
+}
