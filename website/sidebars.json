@@ -8,7 +8,10 @@
     "Paging" :["Paging"],
     "User Process":["tss_preq1","tss_preq2","tss_preq3","user_mode"],
     "Multi Programming":["multi"],
-    "Setting up a screen driver": ["io-intro"]
+    "Setting up a screen driver": ["io-intro"],
+    "Disk Load": ["disk_l"],
+    "Timer Interrupts":["timer"],
+    "Keyboard Interrupts":["keyboard"]
 
   }
 }
